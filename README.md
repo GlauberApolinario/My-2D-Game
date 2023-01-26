@@ -6,7 +6,9 @@
 
 
 ## Sobre o Projeto
-Jogo em 2D simples feito em Javascript como parte do teste de seleção da Connect Black
+Jogo em 2D simples feito em Javascript como parte do teste de seleção da Connect Black.
+<br />
+Sprites e assets utilizados foram disponibilizados de forma gratuita pela plataforma itch.io.
 <br />
 
 ## Deploy com Netlify
