@@ -12,7 +12,7 @@ Sprites e assets utilizados foram disponibilizados de forma gratuita pela plataf
 <br />
 
 ## Deploy com Netlify
-<a href="https://glauber-freitas.netlify.app" target="blank">My-2D-Game</a>
+<a href="https://glauber-freitas.netlify.app" target="_blank">My-2D-Game</a>
 
 
 ## Contato
